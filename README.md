@@ -1,2 +1,2 @@
 # Qt_Templates
-My repo for quicik Qt templates
+My repo for quick Qt templates
